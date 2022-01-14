@@ -1,0 +1,18 @@
+{
+    "name": "blackpanda/crypto-scan",
+    "description": "This package explores Cryptos transaction and store them in db for future proposes.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Blackpanda\\CryptoScan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BlackPanda",
+            "email": "46260610+B14ckP4nd4@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
